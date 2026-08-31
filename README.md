@@ -69,6 +69,7 @@ Practicing Data Structures & Algorithms and maintaining my coding solutions on G
 
 ## 📈 GitHub Contributions
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/RahullSwamii/RahullSwamii/output/github-contribution-grid-snake.svg)
 
 ---
 
