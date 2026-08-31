@@ -1,16 +1,43 @@
 ## Hi there 👋
+# 👋 Hi, I'm Rahul Swami
 
-<!--
-**RahullSwamii/RahullSwamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Data Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 AI & Data Science Student
+- 💻 Learning Java, Python & DSA
+- 📊 Interested in Data Analysis and Machine Learning
+- 🌱 Currently building projects and improving my skills
+- 🎯 Aspiring Data Analyst
+
+## 🛠️ Skills
+
+**Languages**
+- c
+- Java
+- Python
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+- AI-enabled Learning Platform
+- Cross-Model Consistency Graphs
+- Smart Irrigation System(Project on Tinkercad)
+- LeetCode Solutions
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python & its libraries
+- SQL
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rahul-swami-b33693385/
+- Instagram: https://www.instagram.com/_rahu.lswami6/
+- GitHub: https://github.com/RahulSwamii
