@@ -38,7 +38,6 @@ Welcome to my GitHub profile! 🚀
 - Data Analysis
 - SQL
 - Python for Data Science
-- Backend Development
 
 ---
 
